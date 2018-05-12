@@ -17,6 +17,8 @@ description: Renowned German poet Mathilde Blind published several influential v
   Darwin's theory of evolution. A relic from the era when the arts and sciences were
   more deeply intertwined, this fascinating work is a must-read for fans of Romantic
   poetry.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39844#The-Ascent-of-Man
 gutenberg_issued: '2012-05-29'
 gutenberg_type: Text
 identifiers:
