@@ -1,0 +1,32 @@
+_repo: The-Ascent-of-Man_39844
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39844-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blind, Mathilde
+    birthdate: 1841
+    deathdate: 1896
+    gutenberg_agent_id: '38517'
+    url: http://www.gutenberg.org/2009/agents/38517
+    wikipedia: http://en.wikipedia.org/wiki/Mathilde_Blind
+description: Renowned German poet Mathilde Blind published several influential volumes
+  of verse in the late nineteenth century. The epic poem The Ascent of Man is her
+  most ambitious literary undertaking. In it, she provides a poetic account of Charles
+  Darwin's theory of evolution. A relic from the era when the arts and sciences were
+  more deeply intertwined, this fascinating work is a must-read for fans of Romantic
+  poetry.
+gutenberg_issued: '2012-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: The Ascent of Man
+url: http://www.gutenberg.org/ebooks/39844
